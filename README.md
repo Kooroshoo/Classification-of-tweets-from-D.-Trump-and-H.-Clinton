@@ -1,4 +1,4 @@
-# Machine-learning-assignment-2
+# Classification of tweets from D. Trump and H. Clinton
 
 Using Sklearn
 
