@@ -1,6 +1,6 @@
 # Classification of tweets from D. Trump and H. Clinton
 
-solve a classification task using Scikit-learn over some given dataset.
+Solve a classification task using Scikit-learn over some given dataset.
 
 The task is to choose a dataset, train a classifier on the training set and predict the labels on the test set.
 
